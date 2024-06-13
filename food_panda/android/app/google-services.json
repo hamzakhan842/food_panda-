@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076536839011",
+    "project_id": "firstmeal1",
+    "storage_bucket": "firstmeal1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076536839011:android:3fbd2e082f0e1fa5bba156",
+        "android_client_info": {
+          "package_name": "com.example.food_panda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHivqkEFFLGYHXY8_6sInBfYfmv_e688A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
